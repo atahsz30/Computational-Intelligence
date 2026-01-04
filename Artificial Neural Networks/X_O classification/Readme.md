@@ -5,15 +5,6 @@ The main focus of the project is to **evaluate and compare the performance of di
 
 ---
 
-## 📁 Project Structure
-
-### `models_comparison/`
-This folder contains:
-- The **classification code** (`x_o classification`)
-- Evaluation and comparison of different models’ performance
-
----
-
 ### Contents
 
 #### 1. Data Generator
@@ -33,7 +24,7 @@ Each model:
 
 #### 3. MLP Model
 - The **Multi-Layer Perceptron (MLP)** model is implemented separately.
-- This model is written in **C++** and located in the `cpp/` folder.
+- This model is written in **C++**.
 
 ---
 
@@ -85,6 +76,4 @@ Each model is selected using the following numeric identifiers:
 
 ---
 
-
-## 📜 License
 
